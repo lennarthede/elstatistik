@@ -6,7 +6,7 @@ Statistikkerne er baseret på data er fra <a href="https://www.energidataservice
 
 Profilpriser:<br>
 I nogle grafer anvendes  "profilpriser". Her er priserne vægtet i forhold til en gennemsnitlig dansk hustands forbrugsprofil over et døgn. Dette giver et bedre grundlag for sammenligning hustandens reelle eludgift (uden afgift og tariffer). Høje priser og højt forbrug følger generelt hinanden, hvorved det giver en lidt højere pris end den uvægtede gennemsnitlige spotpris.<br>
-Forbrugsprofilen er baseret på det seneste års data fra: 
+Forbrugsprofilen er baseret på det seneste års data (kode "privat") fra: 
 <a href="https://www.energidataservice.dk/tso-electricity/ConsumptionDK3619IndustryHour">Energi data Service - ConsumptionDK3619IndustryHour</a><br><br>
 Materiale på denne side er til fri afbenyttelse til ikke-kommercielle formål.<br><br>
 Materialet må kun bringes på andre hjemmeside, medier, apps mv. ved godkendelse og citation.<br><br>
